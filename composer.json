@@ -1,0 +1,17 @@
+{
+  "name": "vitis/composer_issues",
+  "autoload": {
+    "psr-4": {
+      "Vitis\\ComposerIssues\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Dan Poblete",
+      "email": "ace.poblete@gmail.com"
+    }
+  ],
+  "require": {
+    "php": "~8.1"
+  }
+}
